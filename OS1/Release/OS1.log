@@ -1,0 +1,8 @@
+﻿  MemTest.cpp
+C:\Users\haidu\Downloads\OS1\OS1\OS1\MemTest.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Создание кода завершено
+  2 of 129 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  OS1.vcxproj -> C:\Users\haidu\Downloads\OS1\OS1\Release\OS1.exe

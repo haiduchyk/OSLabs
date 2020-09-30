@@ -1,0 +1,10 @@
+﻿  MemTest.cpp
+C:\Users\haidu\OneDrive\Рабочий стол\OS1\MemTest.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OS1.cpp
+C:\Users\haidu\OneDrive\Рабочий стол\OS1\OS1.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\haidu\OneDrive\Рабочий стол\OS1\OS1.cpp(23,18): warning C4244: инициализация: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+C:\Users\haidu\OneDrive\Рабочий стол\OS1\OS1.cpp(73,36): warning C4838: Преобразование из "int32_t" в "uint64_t" требует сужающего преобразования.
+C:\Users\haidu\OneDrive\Рабочий стол\OS1\OS1.cpp(81,87): warning C4838: Преобразование из "int32_t" в "uint64_t" требует сужающего преобразования.
+C:\Users\haidu\OneDrive\Рабочий стол\OS1\OS1.cpp(232,41): warning C4838: Преобразование из "int" в "uint64_t" требует сужающего преобразования.
+  Создание кода...
+  OS1.vcxproj -> C:\Users\haidu\OneDrive\Рабочий стол\OS1\Debug\OS1.exe
