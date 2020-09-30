@@ -42,4 +42,5 @@
 
 Результат
 
-https://github.com/haiduchyk/OSLabs/blob/master/OS1/Result.png
+![alt text](https://github.com/haiduchyk/OSLabs/blob/master/OS1/Result.png)
+
